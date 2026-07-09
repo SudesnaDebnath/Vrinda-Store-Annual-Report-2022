@@ -11,4 +11,4 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 4. Amazon, Flipkart and Myntra channels are max contributing
 
 ## Suggestion
-1. Taget women customers of age group (20-59 years) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offeres/coupons available on Amazon, Flipkart, and Myntra
+Taget women customers of age group (20-59 years) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offeres/coupons available on Amazon, Flipkart, and Myntra
